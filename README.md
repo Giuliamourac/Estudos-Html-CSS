@@ -1,5 +1,5 @@
 # Sitios-para-Internet
-Materia de sitios para internet Fatec-RL
+Materia de sitios para internet Fatec-RL.
 ---
 
 ## Prática em aula
